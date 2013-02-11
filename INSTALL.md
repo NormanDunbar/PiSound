@@ -9,10 +9,10 @@ sudo ln /usr/local/bin/sound.py /usr/local/bin/sound
 
 Now it can be executed as follows:
 
-$ sound.py <some parameter>
+$ sound.py a_parameter
 
 or
 
-$ sound <some parameter>
+$ sound.py a_parameter
 
 Have fun.
