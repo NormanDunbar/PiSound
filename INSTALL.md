@@ -40,9 +40,9 @@ Now it can be executed as follows:
 
     $ sound.py a_parameter
 
-or
+or, simply:
 
-    $ sound.py a_parameter
+    $ sound a_parameter
 
     
 UNINSTALLING
