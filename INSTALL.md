@@ -11,8 +11,7 @@ You can now download PiSound as follows:
 
     $ git clone https://github.com/NormanDunbar/PiSound.git
 
-This command will create a directory, beneath where you currently are, named PiSound and all
-the required files will be copied into it.
+This command will create a directory, beneath where you currently are, named PiSound and all the required files will be copied into it.
 
 
 TESTING
